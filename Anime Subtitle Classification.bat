@@ -1,8 +1,8 @@
 @echo Off&COLOR 0B&setlocal enabledelayedexpansion
-set ProgramName=Anime Subtitle Classification By Zack Ver240320
+set ProgramName=Anime Subtitle Classification By Zack Ver240321
 title !ProgramName!
 ::====================================================================================
-For  %%F In ("E:\Sync\Database\Backup\Anime\Database\*.ass") do (
+For  %%F In ("E:\Sync\Database\Backup\Anime-Subtitles\Database\*.ass") do (
     set FilePath=%%F
     echo !FilePath! | find "N" > nul
     if !errorlevel! equ 0 (
