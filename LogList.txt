@@ -1,4 +1,12 @@
-Anime Centration 10bit HEVC AVC Update Project Completed Projects LogList  Ver.240321
+Anime Centration 10bit HEVC AVC Update Project LogList  Ver.240323
+
+Subtitle Fix
+暗殺教室
+佐賀偶像是傳奇
+食戟之靈-豪之皿
+
+Aborted Projects
+哥布林殺手
 
 VCB-Studio HEVC
 天気の子-200905
@@ -88,6 +96,7 @@ Re：CREATORS-220227-Maybe
 その花びらにくちづけを-180420-Maybe
 罪惡王冠-Skyeysnow190615
 科學超電磁砲S-TSDM190724
+神不在的星期天-Skyeysnow191215
 
 Snow-Raws HEVC
 Angel Beats!-190713
