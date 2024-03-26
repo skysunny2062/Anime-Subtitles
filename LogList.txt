@@ -1,4 +1,4 @@
-Anime Centration 10bit HEVC AVC Update Project LogList  Ver.240323
+Anime Centration 10bit HEVC AVC Update Project LogList  Ver.240326
 
 Subtitle Fix
 暗殺教室
@@ -35,6 +35,7 @@ Re從零開始的異世界生活-170812
 只有我不存在的城市-210119
 可塑性記憶-160315
 打工吧!魔王大人-220405
+甲鐵城的卡巴內里-200512
 凪のあすから-220607
 佐賀偶像是傳奇-190829/211004
 我女友與青梅竹馬的慘烈修羅場-220405
