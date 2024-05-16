@@ -1,4 +1,4 @@
-Anime Centration 10bit HEVC AVC Update Project LogList  Ver.240326
+Anime Centration 10bit HEVC AVC Update Project LogList  Ver.240329
 
 Subtitle Fix
 暗殺教室
@@ -7,6 +7,7 @@ Subtitle Fix
 
 Aborted Projects
 哥布林殺手
+狂賭之淵
 
 VCB-Studio HEVC
 天気の子-200905
@@ -17,9 +18,11 @@ BEATLESS-220606
 Charlotte-160410
 GATE奇幻自衛隊-170209
 Love Live!-230101
-Love Live!Ⅱ-230101
+Love Live!S2-230101
 Love Live!學園偶像電影-230101
 Love Live! Sunshine!!-170510
+Love Live! Sunshine!!S2-190206
+Love Live! Sunshine!!學園偶像電影～彩虹彼端～-190819
 Lycoris Recoil-230620
 No Game No Life Zero-180518...Beta
 Re從零開始的異世界生活-170812
