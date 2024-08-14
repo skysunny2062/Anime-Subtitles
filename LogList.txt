@@ -1,4 +1,4 @@
-Anime Centration 10bit HEVC AVC Update Project LogList  Ver.240329
+Anime Centration 10bit HEVC AVC Update Project LogList  Ver.240813
 
 Subtitle Fix
 暗殺教室
@@ -13,7 +13,7 @@ VCB-Studio HEVC
 天気の子-200905
 君の名は-170821
 聲の形-200301
-86-Eighty Six-230612
+86-Eighty Six-240520
 BEATLESS-220606
 Charlotte-160410
 GATE奇幻自衛隊-170209
@@ -33,6 +33,7 @@ Re從零開始的異世界生活-170812
 刀劍神域-無星夜的詠嘆調-231105
 刀劍神域-陰沉薄暮的詼諧曲-231202
 不正經的魔術講師與禁忌教典-190913
+中二病也想談戀愛！-Take On Me-181206
 日常系的異能戰鬥-230424
 加速世界-160924
 只有我不存在的城市-210119
@@ -83,6 +84,9 @@ Re從零開始的異世界生活-170812
 輝夜姬想讓人告白－初吻不會结束－-230828
 
 VCB-Studio AVC
+小鳥遊六花·改-181206
+中二病也想談戀愛！-181206
+中二病也想談戀愛！戀-181206
 虎與龍-211221
 流浪神差-170312
 科學超電磁砲-190502
